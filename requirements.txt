@@ -1,0 +1,12 @@
+click
+dnspython
+Flask
+Flask-PyMongo
+Flask-WTF
+itsdangerous
+Jinja2
+MarkupSafe
+pymongo
+Werkzeug
+WTForms
+google-cloud-aiplatform
